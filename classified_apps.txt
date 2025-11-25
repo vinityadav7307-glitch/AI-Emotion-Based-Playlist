@@ -1,6 +1,0 @@
-ChatGPT - AI
-TensorFlow - ML
-Google Assistant - AI
-PyTorch - ML
-Midjourney - AI
-Scikit-learn - ML
