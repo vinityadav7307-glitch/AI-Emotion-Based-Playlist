@@ -143,3 +143,21 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True)
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+*.iml
+
+# Jupyter
+*.ipynb
+
+# Data/output files
+*.csv
+*.png
+*.txt

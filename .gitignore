@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+*.iml
+
+# Jupyter
+*.ipynb
+
+# Data/output files (optional)
+*.csv
+*.png
+*.txt
